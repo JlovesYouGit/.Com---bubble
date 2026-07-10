@@ -49,3 +49,18 @@ Note on execution environment
   - rerun the script.
   - or run from a fresh terminal.
 
+resolve status 404
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Error response</title>
+    </head>
+    <body>
+        <h1>Error response</h1>
+        <p>Error code: 404</p>
+However, testing the HTTP routes via node dist/index.js --netruntime could not be validated end-to-end in this environment because:
+the Magi-Zone service mode attempted Windows service start (access denied), and
+netruntime process/lifecycle did not keep the HTTP server reachable on the expected port (returned 404 for /hostpoints/active).
+
+        
