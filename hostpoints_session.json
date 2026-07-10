@@ -1,0 +1,55 @@
+{
+  "type": "hostpoints_session",
+  "generated_at": 1783724153.8583925,
+  "hostpoints": {
+    "hp_0": {
+      "sessionState": "active",
+      "ipRange": "10.0.0.0/24",
+      "dnsName": "hostpoint-hp_0.mirror.com",
+      "transferHostpoint": "geom_spawn_0",
+      "hotspotIndex": 0
+    },
+    "hp_1": {
+      "sessionState": "active",
+      "ipRange": "10.0.1.0/24",
+      "dnsName": "hostpoint-hp_1.mirror.com",
+      "transferHostpoint": "geom_spawn_1",
+      "hotspotIndex": 1
+    },
+    "hp_2": {
+      "sessionState": "active",
+      "ipRange": "10.0.2.0/24",
+      "dnsName": "hostpoint-hp_2.mirror.com",
+      "transferHostpoint": "geom_spawn_2",
+      "hotspotIndex": 2
+    },
+    "hp_3": {
+      "sessionState": "active",
+      "ipRange": "10.0.3.0/24",
+      "dnsName": "hostpoint-hp_3.mirror.com",
+      "transferHostpoint": "geom_spawn_3",
+      "hotspotIndex": 3
+    },
+    "hp_4": {
+      "sessionState": "active",
+      "ipRange": "10.0.4.0/24",
+      "dnsName": "hostpoint-hp_4.mirror.com",
+      "transferHostpoint": "geom_spawn_4",
+      "hotspotIndex": 4
+    },
+    "hp_5": {
+      "sessionState": "active",
+      "ipRange": "10.0.5.0/24",
+      "dnsName": "hostpoint-hp_5.mirror.com",
+      "transferHostpoint": "geom_spawn_5",
+      "hotspotIndex": 5
+    },
+    "hp_6": {
+      "sessionState": "active",
+      "ipRange": "10.0.6.0/24",
+      "dnsName": "hostpoint-hp_6.mirror.com",
+      "transferHostpoint": "geom_spawn_6",
+      "hotspotIndex": 6
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "type": "hostpoints_active",
+  "generated_at": 1783724153.8583925,
+  "hostpoint_count": 7,
+  "mirrorRoot": "mirror.com",
+  "hostpoints": [
+    {
+      "hostpointId": "hp_0",
+      "hotspotIndex": 0,
+      "geomSpawnEndpointId": "geom_spawn_0",
+      "lat_deg": 70.05,
+      "lon_deg": 109.31,
+      "heat": 0.9228,
+      "ipRange": "10.0.0.0/24",
+      "dnsName": "hostpoint-hp_0.mirror.com",
+      "transferHostpoint": "geom_spawn_0",
+      "sessionState": "active"
+    },
+    {
+      "hostpointId": "hp_1",
+      "hotspotIndex": 1,
+      "geomSpawnEndpointId": "geom_spawn_1",
+      "lat_deg": 75.0,
+      "lon_deg": 105.0,
+      "heat": 0.9228,
+      "ipRange": "10.0.1.0/24",
+      "dnsName": "hostpoint-hp_1.mirror.com",
+      "transferHostpoint": "geom_spawn_1",
+      "sessionState": "active"
+    },
+    {
+      "hostpointId": "hp_2",
+      "hotspotIndex": 2,
+      "geomSpawnEndpointId": "geom_spawn_2",
+      "lat_deg": -26.45,
+      "lon_deg": 13.08,
+      "heat": 0.9224,
+      "ipRange": "10.0.2.0/24",
+      "dnsName": "hostpoint-hp_2.mirror.com",
+      "transferHostpoint": "geom_spawn_2",
+      "sessionState": "active"
+    },
+    {
+      "hostpointId": "hp_3",
+      "hotspotIndex": 3,
+      "geomSpawnEndpointId": "geom_spawn_3",
+      "lat_deg": 45.0,
+      "lon_deg": 0.0,
+      "heat": 0.85,
+      "ipRange": "10.0.3.0/24",
+      "dnsName": "hostpoint-hp_3.mirror.com",
+      "transferHostpoint": "geom_spawn_3",
+      "sessionState": "active"
+    },
+    {
+      "hostpointId": "hp_4",
+      "hotspotIndex": 4,
+      "geomSpawnEndpointId": "geom_spawn_4",
+      "lat_deg": 66.43,
+      "lon_deg": -133.3,
+      "heat": 0.8207,
+      "ipRange": "10.0.4.0/24",
+      "dnsName": "hostpoint-hp_4.mirror.com",
+      "transferHostpoint": "geom_spawn_4",
+      "sessionState": "active"
+    },
+    {
+      "hostpointId": "hp_5",
+      "hotspotIndex": 5,
+      "geomSpawnEndpointId": "geom_spawn_5",
+      "lat_deg": 53.16,
+      "lon_deg": 141.1,
+      "heat": 0.7711,
+      "ipRange": "10.0.5.0/24",
+      "dnsName": "hostpoint-hp_5.mirror.com",
+      "transferHostpoint": "geom_spawn_5",
+      "sessionState": "active"
+    },
+    {
+      "hostpointId": "hp_6",
+      "hotspotIndex": 6,
+      "geomSpawnEndpointId": "geom_spawn_6",
+      "lat_deg": -9.46,
+      "lon_deg": 156.3,
+      "heat": 0.5942,
+      "ipRange": "10.0.6.0/24",
+      "dnsName": "hostpoint-hp_6.mirror.com",
+      "transferHostpoint": "geom_spawn_6",
+      "sessionState": "active"
+    }
+  ]
+}

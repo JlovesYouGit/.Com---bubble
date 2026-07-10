@@ -1,0 +1,196 @@
+{
+  "type": "active_endpoints",
+  "generated_at": 1783723192.3279667,
+  "endpoint_count": 7,
+  "endpoints": [
+    {
+      "hotspotIndex": 0,
+      "hotspot": {
+        "lat_deg": 70.05,
+        "lon_deg": 109.31,
+        "heat": 0.9228
+      },
+      "geometry": {
+        "type": "reality_tear_hydraulic_fringe",
+        "center": [
+          70.05,
+          109.31,
+          0.0
+        ],
+        "spawnTier": 3,
+        "hotspotRadiusDeg": 10.0,
+        "notes": "placeholder geometry payload; magi-zone wiring will map this into accessibleGeometry"
+      },
+      "connectedEndpoints": [
+        {
+          "endpointId": "geom_spawn_0",
+          "kind": "geometry_spawn",
+          "enabled": true
+        }
+      ],
+      "timestamp": 1783723192.3269658
+    },
+    {
+      "hotspotIndex": 1,
+      "hotspot": {
+        "lat_deg": 75.0,
+        "lon_deg": 105.0,
+        "heat": 0.9228
+      },
+      "geometry": {
+        "type": "reality_tear_hydraulic_fringe",
+        "center": [
+          75.0,
+          105.0,
+          0.0
+        ],
+        "spawnTier": 3,
+        "hotspotRadiusDeg": 10.0,
+        "notes": "placeholder geometry payload; magi-zone wiring will map this into accessibleGeometry"
+      },
+      "connectedEndpoints": [
+        {
+          "endpointId": "geom_spawn_1",
+          "kind": "geometry_spawn",
+          "enabled": true
+        }
+      ],
+      "timestamp": 1783723192.3269658
+    },
+    {
+      "hotspotIndex": 2,
+      "hotspot": {
+        "lat_deg": -26.45,
+        "lon_deg": 13.08,
+        "heat": 0.9224
+      },
+      "geometry": {
+        "type": "reality_tear_hydraulic_fringe",
+        "center": [
+          -26.45,
+          13.08,
+          0.0
+        ],
+        "spawnTier": 3,
+        "hotspotRadiusDeg": 10.0,
+        "notes": "placeholder geometry payload; magi-zone wiring will map this into accessibleGeometry"
+      },
+      "connectedEndpoints": [
+        {
+          "endpointId": "geom_spawn_2",
+          "kind": "geometry_spawn",
+          "enabled": true
+        }
+      ],
+      "timestamp": 1783723192.3269658
+    },
+    {
+      "hotspotIndex": 3,
+      "hotspot": {
+        "lat_deg": 45.0,
+        "lon_deg": 0.0,
+        "heat": 0.85
+      },
+      "geometry": {
+        "type": "reality_tear_hydraulic_fringe",
+        "center": [
+          45.0,
+          0.0,
+          0.0
+        ],
+        "spawnTier": 3,
+        "hotspotRadiusDeg": 10.0,
+        "notes": "placeholder geometry payload; magi-zone wiring will map this into accessibleGeometry"
+      },
+      "connectedEndpoints": [
+        {
+          "endpointId": "geom_spawn_3",
+          "kind": "geometry_spawn",
+          "enabled": true
+        }
+      ],
+      "timestamp": 1783723192.3269658
+    },
+    {
+      "hotspotIndex": 4,
+      "hotspot": {
+        "lat_deg": 66.43,
+        "lon_deg": -133.3,
+        "heat": 0.8207
+      },
+      "geometry": {
+        "type": "reality_tear_hydraulic_fringe",
+        "center": [
+          66.43,
+          -133.3,
+          0.0
+        ],
+        "spawnTier": 3,
+        "hotspotRadiusDeg": 10.0,
+        "notes": "placeholder geometry payload; magi-zone wiring will map this into accessibleGeometry"
+      },
+      "connectedEndpoints": [
+        {
+          "endpointId": "geom_spawn_4",
+          "kind": "geometry_spawn",
+          "enabled": true
+        }
+      ],
+      "timestamp": 1783723192.3269658
+    },
+    {
+      "hotspotIndex": 5,
+      "hotspot": {
+        "lat_deg": 53.16,
+        "lon_deg": 141.1,
+        "heat": 0.7711
+      },
+      "geometry": {
+        "type": "reality_tear_hydraulic_fringe",
+        "center": [
+          53.16,
+          141.1,
+          0.0
+        ],
+        "spawnTier": 3,
+        "hotspotRadiusDeg": 10.0,
+        "notes": "placeholder geometry payload; magi-zone wiring will map this into accessibleGeometry"
+      },
+      "connectedEndpoints": [
+        {
+          "endpointId": "geom_spawn_5",
+          "kind": "geometry_spawn",
+          "enabled": true
+        }
+      ],
+      "timestamp": 1783723192.3269658
+    },
+    {
+      "hotspotIndex": 6,
+      "hotspot": {
+        "lat_deg": -9.46,
+        "lon_deg": 156.3,
+        "heat": 0.5942
+      },
+      "geometry": {
+        "type": "reality_tear_hydraulic_fringe",
+        "center": [
+          -9.46,
+          156.3,
+          0.0
+        ],
+        "spawnTier": 3,
+        "hotspotRadiusDeg": 10.0,
+        "notes": "placeholder geometry payload; magi-zone wiring will map this into accessibleGeometry"
+      },
+      "connectedEndpoints": [
+        {
+          "endpointId": "geom_spawn_6",
+          "kind": "geometry_spawn",
+          "enabled": true
+        }
+      ],
+      "timestamp": 1783723192.3269658
+    }
+  ]
+}

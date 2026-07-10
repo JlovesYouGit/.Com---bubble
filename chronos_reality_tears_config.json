@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "input": {
+    "sourceEarthFieldJson": "probe-sequence/spectrum_data/earth_coverage_field.json"
+  },
+  "hotspotDetection": {
+    "latRangeDeg": [ -90, 90 ],
+    "lonRangeDeg": [ -180, 180 ],
+    "minHeat": 0.25,
+    "maxHotspots": 8,
+    "gridSampleStrategy": "scan_max_within_positive_heat_bounds"
+  },
+  "dimensionCoordination": {
+    "dimensionNames": ["earth", "life", "geom"],
+    "usePositiveBoundsOnly": true
+  },
+  "geometrySpawn": {
+    "enabled": true,
+    "geometryType": "reality_tear_hydraulic_fringe",
+    "accessibleGeometrySelection": ["accessibleGeometry", "hotspot",
+      "escape_vector"],
+    "minSpawnHeat": 0.35
+  },
+  "realityTearExecution": {
+    "commandName": "magi_zone_reality_tear_with_multi_hotspots",
+    "timeoutS": 60,
+    "hotspotCountPerExecution": 4,
+    "topKPassThrough": 4
+  },
+  "output": {
+    "hotspotIndexJson": "pocket-dimension/hotspot_index.json",
+    "activeEndpointsJson": "pocket-dimension/active_endpoints.json",
+    "configsSnapshotJson": "pocket-dimension/chronos_reality_tears_snapshot.json"
+  }
+}
+

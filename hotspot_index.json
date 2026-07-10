@@ -1,0 +1,42 @@
+{
+  "type": "hotspot_index",
+  "source": "E:\\DOWNLOADs\\outsideboundvoice\\probe-sequence\\spectrum_data\\earth_coverage_field.json",
+  "generated_at": 1783723192.3269658,
+  "hotspots": [
+    {
+      "lat_deg": 70.05,
+      "lon_deg": 109.31,
+      "heat": 0.9228
+    },
+    {
+      "lat_deg": 75.0,
+      "lon_deg": 105.0,
+      "heat": 0.9228
+    },
+    {
+      "lat_deg": -26.45,
+      "lon_deg": 13.08,
+      "heat": 0.9224
+    },
+    {
+      "lat_deg": 45.0,
+      "lon_deg": 0.0,
+      "heat": 0.85
+    },
+    {
+      "lat_deg": 66.43,
+      "lon_deg": -133.3,
+      "heat": 0.8207
+    },
+    {
+      "lat_deg": 53.16,
+      "lon_deg": 141.1,
+      "heat": 0.7711
+    },
+    {
+      "lat_deg": -9.46,
+      "lon_deg": 156.3,
+      "heat": 0.5942
+    }
+  ]
+}
